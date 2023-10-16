@@ -10670,39 +10670,39 @@ template {
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-BlackItalic.eot);
-  src: url(/assets/fonts/FactorA-BlackItalic.eot?#iefix)
+  src: url(assets/fonts/FactorA-BlackItalic.eot);
+  src: url(assets/fonts/FactorA-BlackItalic.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-BlackItalic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-BlackItalic.woff) format('woff'),
-    url(/assets/fonts/FactorA-BlackItalic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-BlackItalic.svg#FactorA-BlackItalic) format('svg');
+    url(assets/fonts/FactorA-BlackItalic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-BlackItalic.woff) format('woff'),
+    url(assets/fonts/FactorA-BlackItalic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-BlackItalic.svg#FactorA-BlackItalic) format('svg');
   font-weight: 900;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-LightItalic.eot);
-  src: url(/assets/fonts/FactorA-LightItalic.eot?#iefix)
+  src: url(assets/fonts/FactorA-LightItalic.eot);
+  src: url(assets/fonts/FactorA-LightItalic.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-LightItalic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-LightItalic.woff) format('woff'),
-    url(/assets/fonts/FactorA-LightItalic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-LightItalic.svg#FactorA-LightItalic) format('svg');
+    url(assets/fonts/FactorA-LightItalic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-LightItalic.woff) format('woff'),
+    url(assets/fonts/FactorA-LightItalic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-LightItalic.svg#FactorA-LightItalic) format('svg');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-MediumItalic.eot);
-  src: url(/assets/fonts/FactorA-MediumItalic.eot?#iefix)
+  src: url(assets/fonts/FactorA-MediumItalic.eot);
+  src: url(assets/fonts/FactorA-MediumItalic.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-MediumItalic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-MediumItalic.woff) format('woff'),
-    url(/assets/fonts/FactorA-MediumItalic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-MediumItalic.svg#FactorA-MediumItalic)
+    url(assets/fonts/FactorA-MediumItalic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-MediumItalic.woff) format('woff'),
+    url(assets/fonts/FactorA-MediumItalic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-MediumItalic.svg#FactorA-MediumItalic)
       format('svg');
   font-weight: 500;
   font-style: italic;
@@ -10710,86 +10710,86 @@ template {
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Regular.eot);
-  src: url(/assets/fonts/FactorA-Regular.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Regular.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Regular.woff) format('woff'),
-    url(/assets/fonts/FactorA-Regular.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Regular.svg#FactorA-Regular) format('svg');
+  src: url(assets/fonts/FactorA-Regular.eot);
+  src: url(assets/fonts/FactorA-Regular.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Regular.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Regular.woff) format('woff'),
+    url(assets/fonts/FactorA-Regular.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Regular.svg#FactorA-Regular) format('svg');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Light.eot);
-  src: url(/assets/fonts/FactorA-Light.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Light.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Light.woff) format('woff'),
-    url(/assets/fonts/FactorA-Light.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Light.svg#FactorA-Light) format('svg');
+  src: url(assets/fonts/FactorA-Light.eot);
+  src: url(assets/fonts/FactorA-Light.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Light.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Light.woff) format('woff'),
+    url(assets/fonts/FactorA-Light.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Light.svg#FactorA-Light) format('svg');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Extrabold.eot);
-  src: url(/assets/fonts/FactorA-Extrabold.eot?#iefix)
+  src: url(assets/fonts/FactorA-Extrabold.eot);
+  src: url(assets/fonts/FactorA-Extrabold.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Extrabold.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Extrabold.woff) format('woff'),
-    url(/assets/fonts/FactorA-Extrabold.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Extrabold.svg#FactorA-Extrabold) format('svg');
+    url(assets/fonts/FactorA-Extrabold.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Extrabold.woff) format('woff'),
+    url(assets/fonts/FactorA-Extrabold.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Extrabold.svg#FactorA-Extrabold) format('svg');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Medium.eot);
-  src: url(/assets/fonts/FactorA-Medium.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Medium.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Medium.woff) format('woff'),
-    url(/assets/fonts/FactorA-Medium.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Medium.svg#FactorA-Medium) format('svg');
+  src: url(assets/fonts/FactorA-Medium.eot);
+  src: url(assets/fonts/FactorA-Medium.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Medium.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Medium.woff) format('woff'),
+    url(assets/fonts/FactorA-Medium.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Medium.svg#FactorA-Medium) format('svg');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Black.eot);
-  src: url(/assets/fonts/FactorA-Black.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Black.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Black.woff) format('woff'),
-    url(/assets/fonts/FactorA-Black.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Black.svg#FactorA-Black) format('svg');
+  src: url(assets/fonts/FactorA-Black.eot);
+  src: url(assets/fonts/FactorA-Black.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Black.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Black.woff) format('woff'),
+    url(assets/fonts/FactorA-Black.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Black.svg#FactorA-Black) format('svg');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Bold.eot);
-  src: url(/assets/fonts/FactorA-Bold.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Bold.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Bold.woff) format('woff'),
-    url(/assets/fonts/FactorA-Bold.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Bold.svg#FactorA-Bold) format('svg');
+  src: url(assets/fonts/FactorA-Bold.eot);
+  src: url(assets/fonts/FactorA-Bold.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Bold.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Bold.woff) format('woff'),
+    url(assets/fonts/FactorA-Bold.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Bold.svg#FactorA-Bold) format('svg');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-ExtraboldItalic.eot);
-  src: url(/assets/fonts/FactorA-ExtraboldItalic.eot?#iefix)
+  src: url(assets/fonts/FactorA-ExtraboldItalic.eot);
+  src: url(assets/fonts/FactorA-ExtraboldItalic.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-ExtraboldItalic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-ExtraboldItalic.woff) format('woff'),
-    url(/assets/fonts/FactorA-ExtraboldItalic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-ExtraboldItalic.svg#FactorA-ExtraboldItalic)
+    url(assets/fonts/FactorA-ExtraboldItalic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-ExtraboldItalic.woff) format('woff'),
+    url(assets/fonts/FactorA-ExtraboldItalic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-ExtraboldItalic.svg#FactorA-ExtraboldItalic)
       format('svg');
   font-weight: 800;
   font-style: italic;
@@ -10797,25 +10797,25 @@ template {
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-BoldItalic.eot);
-  src: url(/assets/fonts/FactorA-BoldItalic.eot?#iefix)
+  src: url(assets/fonts/FactorA-BoldItalic.eot);
+  src: url(assets/fonts/FactorA-BoldItalic.eot?#iefix)
       format('embedded-opentype'),
-    url(/assets/fonts/FactorA-BoldItalic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-BoldItalic.woff) format('woff'),
-    url(/assets/fonts/FactorA-BoldItalic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-BoldItalic.svg#FactorA-BoldItalic) format('svg');
+    url(assets/fonts/FactorA-BoldItalic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-BoldItalic.woff) format('woff'),
+    url(assets/fonts/FactorA-BoldItalic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-BoldItalic.svg#FactorA-BoldItalic) format('svg');
   font-weight: 700;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: Factor A;
-  src: url(/assets/fonts/FactorA-Italic.eot);
-  src: url(/assets/fonts/FactorA-Italic.eot?#iefix) format('embedded-opentype'),
-    url(/assets/fonts/FactorA-Italic.woff2) format('woff2'),
-    url(/assets/fonts/FactorA-Italic.woff) format('woff'),
-    url(/assets/fonts/FactorA-Italic.ttf) format('truetype'),
-    url(/assets/fonts/FactorA-Italic.svg#FactorA-Italic) format('svg');
+  src: url(assets/fonts/FactorA-Italic.eot);
+  src: url(assets/fonts/FactorA-Italic.eot?#iefix) format('embedded-opentype'),
+    url(assets/fonts/FactorA-Italic.woff2) format('woff2'),
+    url(assets/fonts/FactorA-Italic.woff) format('woff'),
+    url(assets/fonts/FactorA-Italic.ttf) format('truetype'),
+    url(assets/fonts/FactorA-Italic.svg#FactorA-Italic) format('svg');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -11365,7 +11365,7 @@ input:focus::placeholder {
   height: 49px;
 }
 .copy-success__inner {
-  background: url(/assets/img/copied-bg.png) center no-repeat;
+  background: url(assets/img/copied-bg.png) center no-repeat;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -12068,7 +12068,7 @@ input:focus::placeholder {
 .home-wrap {
   padding: 90px 0 290px;
   margin: -40px auto -280px;
-  background-image: url(/assets/img/home-bg.png);
+  background-image: url(assets/img/home-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -12401,7 +12401,7 @@ input:focus::placeholder {
   padding: 10px 12px 10px 43px;
   background-position: 12px 50%;
   background-size: 16px;
-  background-image: url(/assets/img/sel-search.svg);
+  background-image: url(assets/img/sel-search.svg);
   font-weight: 400;
   font-size: 14px;
   color: #222;
@@ -12487,7 +12487,7 @@ input:focus::placeholder {
 }
 .app {
   width: 100%;
-  background-image: url(/assets/img/app-bg.png);
+  background-image: url(assets/img/app-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -12569,7 +12569,7 @@ input:focus::placeholder {
   padding: 38px 50px 128px;
   background-color: #fff;
   border-radius: 77px;
-  background-image: url(/assets/img/app-modal-bg.png);
+  background-image: url(assets/img/app-modal-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -13077,7 +13077,7 @@ input:focus::placeholder {
 }
 .header-content {
   width: 100%;
-  background-image: url(/assets/img/header-bg.png);
+  background-image: url(assets/img/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -13153,46 +13153,46 @@ input:focus::placeholder {
   }
 }
 .header-content_faq {
-  background-image: url(/assets/img/faq-bg.png);
+  background-image: url(assets/img/faq-bg.png);
 }
 .header-content_cont {
-  background-image: url(/assets/img/cont-bg.png);
+  background-image: url(assets/img/cont-bg.png);
 }
 .header-content_reviews {
-  background-image: url(/assets/img/reviews-bg.png);
+  background-image: url(assets/img/reviews-bg.png);
 }
 .header-content_news {
-  background-image: url(/assets/img/news-page-bg.png);
+  background-image: url(assets/img/news-page-bg.png);
 }
 .header-content_payment {
-  background-image: url(/assets/img/payment-bg.png);
+  background-image: url(assets/img/payment-bg.png);
 }
 .header-content_career {
-  background-image: url(/assets/img/career-bg.png);
+  background-image: url(assets/img/career-bg.png);
 }
 .header-content_about {
-  background-image: url(/assets/img/about-page-bg.png);
+  background-image: url(assets/img/about-page-bg.png);
 }
 .header-content_his {
-  background-image: url(/assets/img/his-bg.png);
+  background-image: url(assets/img/his-bg.png);
 }
 .header-content_info {
-  background-image: url(/assets/img/info-bg.png);
+  background-image: url(assets/img/info-bg.png);
 }
 .header-content_earn {
-  background-image: url(/assets/img/earn-bg.png);
+  background-image: url(assets/img/earn-bg.png);
 }
 .header-content_guide {
-  background-image: url(/assets/img/guide-bg.png);
+  background-image: url(assets/img/guide-bg.png);
 }
 .header-content_invest {
-  background-image: url(/assets/img/invest-bg.png);
+  background-image: url(assets/img/invest-bg.png);
 }
 .header-content_refs {
-  background-image: url(/assets/img/refs-bg.png);
+  background-image: url(assets/img/refs-bg.png);
 }
 .header-content_road {
-  background-image: url(/assets/img/road-bg.png);
+  background-image: url(assets/img/road-bg.png);
 }
 .header-bot {
   padding: 19px 0;
@@ -13777,7 +13777,7 @@ input:focus::placeholder {
   bottom: -29px;
   width: 151px;
   height: 113px;
-  background-image: url(/assets/img/header-form-bg.png);
+  background-image: url(assets/img/header-form-bg.png);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -14147,7 +14147,7 @@ input:focus::placeholder {
 }
 .about {
   padding: 60px 0 0;
-  background-image: url(/assets/img/about-bg.png);
+  background-image: url(assets/img/about-bg.png);
   background-repeat: no-repeat;
   background-position: 50% calc(100% - 92px);
   background-size: 100% auto;
@@ -14402,7 +14402,7 @@ input:focus::placeholder {
   border-radius: 4px;
   margin-bottom: 20px;
   background-color: #474747;
-  background-image: url(/assets/img/about-model-1.png);
+  background-image: url(assets/img/about-model-1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -14607,7 +14607,7 @@ input:focus::placeholder {
   }
 }
 .about-model_2 {
-  background-image: url(/assets/img/about-model-2.png);
+  background-image: url(assets/img/about-model-2.png);
 }
 .about-cont__item {
   width: 100%;
@@ -14803,7 +14803,7 @@ input:focus::placeholder {
   width: 100%;
   margin: 0 auto;
   background-color: #fff;
-  background-image: url(/assets/img/about-his-bg.png);
+  background-image: url(assets/img/about-his-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -14846,7 +14846,7 @@ input:focus::placeholder {
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  background-image: url(/assets/img/about-his-item-bg-1.png);
+  background-image: url(assets/img/about-his-item-bg-1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -14909,13 +14909,13 @@ input:focus::placeholder {
   width: 86px;
   height: 86px;
   content: '';
-  background-image: url(/assets/img/about-his-i.svg);
+  background-image: url(assets/img/about-his-i.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 100% 100%;
 }
 .about-his__item_2 {
-  background-image: url(/assets/img/about-his-item-bg-2.png);
+  background-image: url(assets/img/about-his-item-bg-2.png);
   background-color: #474747;
   width: calc(100% + 60px);
   margin-left: -30px;
@@ -14954,7 +14954,7 @@ input:focus::placeholder {
   margin-bottom: 24px;
 }
 .about-his__item_3 {
-  background-image: url(/assets/img/about-his-item-bg-3.png);
+  background-image: url(assets/img/about-his-item-bg-3.png);
   margin-left: auto;
   align-items: flex-end;
   text-align: right;
@@ -15110,7 +15110,7 @@ input:focus::placeholder {
   height: 42px;
   border-radius: 50%;
   content: '';
-  background-image: url(/assets/img/about-his-hero-arrow.svg);
+  background-image: url(assets/img/about-his-hero-arrow.svg);
   box-shadow: 0 8px 12px #0000001a;
   position: absolute;
   pointer-events: none;
@@ -15202,7 +15202,7 @@ input:focus::placeholder {
   border-radius: 30px;
 }
 .about-num {
-  background-image: url(/assets/img/about-num-bg.png);
+  background-image: url(assets/img/about-num-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -15308,7 +15308,7 @@ input:focus::placeholder {
   left: -176px;
   width: 696px;
   height: 374px;
-  background-image: url(/assets/img/about-map.svg);
+  background-image: url(assets/img/about-map.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -15612,7 +15612,7 @@ input:focus::placeholder {
   content: '';
   width: 26px;
   height: 26px;
-  background-image: url(/assets/img/about-quote.svg);
+  background-image: url(assets/img/about-quote.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -15794,7 +15794,7 @@ input:focus::placeholder {
 .about-refs__content {
   margin: 0 auto;
   width: 100%;
-  background-image: url(/assets/img/about-refs-bg.png);
+  background-image: url(assets/img/about-refs-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -15821,7 +15821,7 @@ input:focus::placeholder {
   top: -28px;
   width: 100%;
   height: calc(100% + 28px);
-  background-image: url(/assets/img/about-refs-circle.png);
+  background-image: url(assets/img/about-refs-circle.png);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: auto auto;
@@ -15918,7 +15918,7 @@ input:focus::placeholder {
   top: calc(50% + 10px);
   width: 132px;
   height: 100px;
-  background-image: url(/assets/img/number-img.png);
+  background-image: url(assets/img/number-img.png);
   content: '';
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -16110,7 +16110,7 @@ input:focus::placeholder {
   width: 100%;
   max-width: 204px;
   height: 76px;
-  background-image: url(/assets/img/num-chart-bg.png);
+  background-image: url(assets/img/num-chart-bg.png);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -16155,7 +16155,7 @@ input:focus::placeholder {
 }
 .make-content {
   width: 100%;
-  background-image: url(/assets/img/make-bg.png);
+  background-image: url(assets/img/make-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -16240,7 +16240,7 @@ input:focus::placeholder {
 }
 .footer-content {
   width: 100%;
-  background-image: url(/assets/img/footer-bg.png);
+  background-image: url(assets/img/footer-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -16935,7 +16935,7 @@ input:focus::placeholder {
 .road-page__center {
   margin: 0 auto;
   width: 100%;
-  background-image: url(/assets/img/road-center-bg.png);
+  background-image: url(assets/img/road-center-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -16952,7 +16952,7 @@ input:focus::placeholder {
   position: relative;
 }
 .road-page__bot {
-  background-image: url(/assets/img/road-bot-bg.png);
+  background-image: url(assets/img/road-bot-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -17074,7 +17074,7 @@ input:focus::placeholder {
   position: absolute;
   height: 66px;
   width: 58px;
-  background-image: url(/assets/img/road-hero-arrow-1.svg);
+  background-image: url(assets/img/road-hero-arrow-1.svg);
   background-repeat: no-repeat;
   background-position: 50% 100%;
   content: '';
@@ -17088,7 +17088,7 @@ input:focus::placeholder {
   }
 }
 .road-hero__item:nth-child(1) {
-  background-image: url(/assets/img/road-hero-bg-1.png);
+  background-image: url(assets/img/road-hero-bg-1.png);
 }
 @media (max-width: 575px) {
   .road-hero__item:nth-child(1) {
@@ -17096,7 +17096,7 @@ input:focus::placeholder {
   }
 }
 .road-hero__item:nth-child(2) {
-  background-image: url(/assets/img/road-hero-bg-2.png);
+  background-image: url(assets/img/road-hero-bg-2.png);
 }
 @media (max-width: 991px) {
   .road-hero__item:nth-child(2) {
@@ -17109,14 +17109,14 @@ input:focus::placeholder {
   }
 }
 .road-hero__item:nth-child(2):after {
-  background-image: url(/assets/img/road-hero-arrow-2.svg);
+  background-image: url(assets/img/road-hero-arrow-2.svg);
   width: 66px;
   height: 58px;
   top: 63px;
   left: 0;
 }
 .road-hero__item:nth-child(3) {
-  background-image: url(/assets/img/road-hero-bg-3.png);
+  background-image: url(assets/img/road-hero-bg-3.png);
   border-top-right-radius: 28px;
 }
 @media (max-width: 991px) {
@@ -17125,7 +17125,7 @@ input:focus::placeholder {
   }
 }
 .road-hero__item:nth-child(3):after {
-  background-image: url(/assets/img/road-hero-arrow-2.svg);
+  background-image: url(assets/img/road-hero-arrow-2.svg);
   width: 66px;
   height: 58px;
   top: 63px;
@@ -17146,7 +17146,7 @@ input:focus::placeholder {
   }
 }
 .road-hero__item:nth-child(4):after {
-  background-image: url(/assets/img/road-hero-arrow-3.svg);
+  background-image: url(assets/img/road-hero-arrow-3.svg);
   width: 66px;
   height: 58px;
   top: 63px;
@@ -17158,7 +17158,7 @@ input:focus::placeholder {
   left: -58px;
 }
 .road-hero__item:nth-child(5) {
-  background-image: url(/assets/img/road-hero-bg-5.png);
+  background-image: url(assets/img/road-hero-bg-5.png);
   flex-grow: 1;
 }
 @media (max-width: 991px) {
@@ -17420,7 +17420,7 @@ input:focus::placeholder {
   left: calc(100% + 26px);
   width: 15px;
   height: 18px;
-  background-image: url(/assets/img/road-arrows.svg);
+  background-image: url(assets/img/road-arrows.svg);
   background-repeat: no-repeat;
   background-position: 0 50%;
   background-size: 100% 100%;
@@ -17625,7 +17625,7 @@ input:focus::placeholder {
 .call-box {
   width: 100%;
   border-radius: 12px;
-  background-image: url(/assets/img/call-bg.png);
+  background-image: url(assets/img/call-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -17680,7 +17680,7 @@ input:focus::placeholder {
   }
 }
 .call-box_red {
-  background-image: url(/assets/img/call-bg-red.png);
+  background-image: url(assets/img/call-bg-red.png);
 }
 .call-box_red .header-form {
   box-shadow: 0 8px 25px #0000000d;
@@ -17830,7 +17830,7 @@ input:focus::placeholder {
   top: 0;
   width: 100%;
   height: 0;
-  background-image: url(/assets/img/perk-bg.png);
+  background-image: url(assets/img/perk-bg.png);
   background-repeat: no-repeat;
   background-position: 50% 0%;
   content: '';
@@ -18194,7 +18194,7 @@ input:focus::placeholder {
 .guide-page__content {
   margin: 0 auto 80px;
   width: 100%;
-  background-image: url(/assets/img/guide-content-bg.png);
+  background-image: url(assets/img/guide-content-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -18307,11 +18307,11 @@ input:focus::placeholder {
   }
 }
 .guide-page__item:nth-last-child(2):after {
-  background-image: url(/assets/img/guide-arrow-last.svg);
+  background-image: url(assets/img/guide-arrow-last.svg);
 }
 .guide-page__item:last-child {
   margin-bottom: 0;
-  background-image: url(/assets/img/guide-item-bg.png);
+  background-image: url(assets/img/guide-item-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -18343,7 +18343,7 @@ input:focus::placeholder {
   left: 300px;
   width: 32px;
   height: 150px;
-  background-image: url(/assets/img/guide-arrow.svg);
+  background-image: url(assets/img/guide-arrow.svg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: 50% 0;
@@ -18459,7 +18459,7 @@ input:focus::placeholder {
   width: 100%;
   background-color: #fff;
   border-radius: 42px;
-  background-image: url(/assets/img/guide-income-bg-1.png);
+  background-image: url(assets/img/guide-income-bg-1.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
   background-size: auto;
@@ -18494,7 +18494,7 @@ input:focus::placeholder {
   left: 58%;
 }
 .guide-income_2 {
-  background-image: url(/assets/img/guide-income-bg-2.png);
+  background-image: url(assets/img/guide-income-bg-2.png);
 }
 .guide-income_2 > img {
   top: -43px;
@@ -18727,7 +18727,7 @@ input:focus::placeholder {
 .news-page {
   width: 100%;
   padding: 60px 0 170px;
-  background-image: url(/assets/img/news-page-content-bg.png);
+  background-image: url(assets/img/news-page-content-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -19095,7 +19095,7 @@ input:focus::placeholder {
   left: 50%;
   transform: translate(-50%);
   bottom: -62px;
-  background-image: url(/assets/img/steps-icon-bg.png);
+  background-image: url(assets/img/steps-icon-bg.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
   background-size: 100%;
@@ -19670,7 +19670,7 @@ input:focus::placeholder {
 }
 .faq {
   padding: 50px 0 140px;
-  background-image: url(/assets/img/faq-page-bg.png);
+  background-image: url(assets/img/faq-page-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -20101,7 +20101,7 @@ input:focus::placeholder {
   position: absolute;
   top: 43px;
   left: 64px;
-  background-image: url(/assets/img/faq-icon-1.svg);
+  background-image: url(assets/img/faq-icon-1.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -20123,7 +20123,7 @@ input:focus::placeholder {
   top: 75px;
   right: 58px;
   position: absolute;
-  background-image: url(/assets/img/faq-icon-2.svg);
+  background-image: url(assets/img/faq-icon-2.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -20227,7 +20227,7 @@ input:focus::placeholder {
   position: absolute;
   top: -60px;
   right: -66px;
-  background-image: url(/assets/img/faq-icon-4.svg);
+  background-image: url(assets/img/faq-icon-4.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -20249,7 +20249,7 @@ input:focus::placeholder {
   top: -20px;
   left: -135px;
   position: absolute;
-  background-image: url(/assets/img/faq-icon-3.svg);
+  background-image: url(assets/img/faq-icon-3.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -20278,7 +20278,7 @@ input:focus::placeholder {
   padding-right: 0;
 }
 .faq-box_nobg:after {
-  background-image: url(/assets/img/cont-icon-1.svg);
+  background-image: url(assets/img/cont-icon-1.svg);
 }
 @media (max-width: 991px) {
   .faq-box_nobg:after {
@@ -20286,7 +20286,7 @@ input:focus::placeholder {
   }
 }
 .faq-box_nobg:before {
-  background-image: url(/assets/img/cont-icon-2.svg);
+  background-image: url(assets/img/cont-icon-2.svg);
 }
 @media (max-width: 991px) {
   .faq-box_nobg:before {
@@ -20459,7 +20459,7 @@ input:focus::placeholder {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url(/assets/img/cont-tg-bg.png);
+  background-image: url(assets/img/cont-tg-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -20561,7 +20561,7 @@ input:focus::placeholder {
   left: 0;
   position: absolute;
   content: '';
-  background-image: url(/assets/img/cont-map.svg);
+  background-image: url(assets/img/cont-map.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -20696,7 +20696,7 @@ input:focus::placeholder {
   padding: 48px 65px 89px;
   width: 100%;
   position: relative;
-  background-image: url(/assets/img/cont-form-bg.png);
+  background-image: url(assets/img/cont-form-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -20761,7 +20761,7 @@ input:focus::placeholder {
   right: -22px;
   bottom: -50px;
   content: '';
-  background-image: url(/assets/img/cont-title-icon.svg);
+  background-image: url(assets/img/cont-title-icon.svg);
   z-index: -1;
 }
 .cont-form-title span {
@@ -20893,7 +20893,7 @@ input:focus::placeholder {
   align-items: stretch;
   justify-content: space-between;
   margin: 0 auto;
-  background-image: url(/assets/img/sign-bg.png);
+  background-image: url(assets/img/sign-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -21269,7 +21269,7 @@ input:focus::placeholder {
 }
 .sign-pass {
   width: 100%;
-  background-image: url(/assets/img/sign-pass-bg.png);
+  background-image: url(assets/img/sign-pass-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -21596,23 +21596,23 @@ input:focus::placeholder {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-image: url(/assets/img/sign-road-1.png);
+  background-image: url(assets/img/sign-road-1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   background-position: 50% 0;
 }
 .sign-road__bg_2 {
-  background-image: url(/assets/img/sign-road-2.png);
+  background-image: url(assets/img/sign-road-2.png);
 }
 .sign-road__bg_3 {
-  background-image: url(/assets/img/sign-road-3.png);
+  background-image: url(assets/img/sign-road-3.png);
 }
 .sign-road__bg_4 {
-  background-image: url(/assets/img/sign-road-4.png);
+  background-image: url(assets/img/sign-road-4.png);
 }
 .sign-road__bg_5 {
-  background-image: url(/assets/img/sign-road-5.png);
+  background-image: url(assets/img/sign-road-5.png);
 }
 .sign-road__list {
   margin-bottom: 50px;
@@ -21905,7 +21905,7 @@ input:focus::placeholder {
 }
 .reviews {
   width: 100%;
-  background-image: url(/assets/img/reviews-bg-2.png);
+  background-image: url(assets/img/reviews-bg-2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -21931,7 +21931,7 @@ input:focus::placeholder {
   left: 50%;
   transform: translate(-50%, -50%);
   content: '';
-  background-image: url(/assets/img/reviews-arrow.svg);
+  background-image: url(assets/img/reviews-arrow.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -22087,7 +22087,7 @@ input:focus::placeholder {
   position: absolute;
   width: 74px;
   height: 101px;
-  background-image: url(/assets/img/reviews-hero-bg.svg);
+  background-image: url(assets/img/reviews-hero-bg.svg);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: contain;
@@ -22188,7 +22188,7 @@ input:focus::placeholder {
   border-left: 1px solid #e6e6e6;
   border-right: 1px solid #e6e6e6;
   border-bottom: 1px solid #e6e6e6;
-  background-image: url(/assets/img/reviews-form-bg.png);
+  background-image: url(assets/img/reviews-form-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -22219,7 +22219,7 @@ input:focus::placeholder {
 .reviews-form .m-title span:after {
   width: 99px;
   height: 63px;
-  background-image: url(/assets/img/reviews-form-title.svg);
+  background-image: url(assets/img/reviews-form-title.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -22236,7 +22236,7 @@ input:focus::placeholder {
 }
 .payment {
   width: 100%;
-  background-image: url(/assets/img/payment-content-bg.png);
+  background-image: url(assets/img/payment-content-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -22630,7 +22630,7 @@ input:focus::placeholder {
 }
 .career-rules {
   padding: 95px 0 165px;
-  background-image: url(/assets/img/career-rules-bg.png);
+  background-image: url(assets/img/career-rules-bg.png);
   background-position: 50% calc(100% - 395px);
   background-size: auto auto;
   background-repeat: no-repeat;
@@ -22645,7 +22645,7 @@ input:focus::placeholder {
   padding: 0 12px;
 }
 .career-rank-box {
-  background-image: url(/assets/img/career-rank-bg.png);
+  background-image: url(assets/img/career-rank-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -22901,7 +22901,7 @@ input:focus::placeholder {
   bottom: -9px;
   width: 101px;
   height: 51px;
-  background-image: url(/assets/img/rank-bg.svg);
+  background-image: url(assets/img/rank-bg.svg);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: 100% 100%;
@@ -23106,7 +23106,7 @@ input:focus::placeholder {
   right: -10px;
   width: 177px;
   height: 126px;
-  background-image: url(/assets/img/career-bonus.svg);
+  background-image: url(assets/img/career-bonus.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -23276,7 +23276,7 @@ input:focus::placeholder {
   font-weight: 700;
 }
 .career-lvl {
-  background-image: url(/assets/img/career-lvl-bg.png);
+  background-image: url(assets/img/career-lvl-bg.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 50% 100%;
@@ -23437,7 +23437,7 @@ input:focus::placeholder {
 }
 .career-invest {
   width: 100%;
-  background-image: url(/assets/img/career-invest-bg.png);
+  background-image: url(assets/img/career-invest-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -23465,7 +23465,7 @@ input:focus::placeholder {
   height: 92px;
   content: '';
   pointer-events: none;
-  background-image: url(/assets/img/career-invest-1.svg);
+  background-image: url(assets/img/career-invest-1.svg);
   background-position: 50% 50%;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -23478,7 +23478,7 @@ input:focus::placeholder {
   height: 125px;
   content: '';
   pointer-events: none;
-  background-image: url(/assets/img/career-invest-2.svg);
+  background-image: url(assets/img/career-invest-2.svg);
   background-position: 50% 50%;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -23771,7 +23771,7 @@ input:focus::placeholder {
   transition: all 0.3s ease;
 }
 .career-box {
-  background-image: url(/assets/img/career-box-bg.png);
+  background-image: url(assets/img/career-box-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -23842,7 +23842,7 @@ input:focus::placeholder {
   height: 100%;
   top: 27px;
   position: absolute;
-  background-image: url(/assets/img/dot-line.png);
+  background-image: url(assets/img/dot-line.png);
   background-position: 0 0;
   background-repeat: repeat-y;
   background-size: 10px 10px;
@@ -23923,7 +23923,7 @@ input:focus::placeholder {
   }
 }
 .his-footer {
-  background-image: url(/assets/img/his-bot-bg.png);
+  background-image: url(assets/img/his-bot-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24030,7 +24030,7 @@ input:focus::placeholder {
   width: calc(100% + 463px);
   height: 100%;
   content: '';
-  background-image: url(/assets/img/his-footer-bg.png);
+  background-image: url(assets/img/his-footer-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24086,10 +24086,10 @@ input:focus::placeholder {
   transform: translate(50%, -50%);
 }
 .his-footer .faq-box:after {
-  background-image: url(/assets/img/faq-icon-5.svg);
+  background-image: url(assets/img/faq-icon-5.svg);
 }
 .his-footer .faq-box:before {
-  background-image: url(/assets/img/faq-icon-6.svg);
+  background-image: url(assets/img/faq-icon-6.svg);
 }
 .his-text-wrap {
   padding-right: 46px;
@@ -24107,7 +24107,7 @@ input:focus::placeholder {
 }
 .his-invite__box {
   margin: 0 auto;
-  background-image: url(/assets/img/his-invite-bg.png);
+  background-image: url(assets/img/his-invite-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24227,7 +24227,7 @@ input:focus::placeholder {
   z-index: -1;
   width: 114px;
   height: 111px;
-  background-image: url(/assets/img/his-invite-hero.png);
+  background-image: url(assets/img/his-invite-hero.png);
   background-repeat: no-repeat;
   background-position: 0 100%;
   background-size: 100% 100%;
@@ -24254,7 +24254,7 @@ input:focus::placeholder {
 }
 .his-top {
   padding: 70px 0 90px;
-  background-image: url(/assets/img/his-top-bg.png);
+  background-image: url(assets/img/his-top-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24757,7 +24757,7 @@ input:focus::placeholder {
   margin-bottom: -4px;
 }
 .info-bot__wrap {
-  background-image: url(/assets/img/info-bot-bg.png);
+  background-image: url(assets/img/info-bot-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24869,7 +24869,7 @@ input:focus::placeholder {
   }
 }
 .earn-list__item {
-  background-image: url(/assets/img/earn-list-bg-1.png);
+  background-image: url(assets/img/earn-list-bg-1.png);
   background-repeat: no-repeat;
   background-position: 100% 100%;
   background-color: #8d49c50d;
@@ -24978,7 +24978,7 @@ input:focus::placeholder {
 .earn-list__item_2 {
   background-color: #285ecc0d;
   border-bottom-color: #285ecc;
-  background-image: url(/assets/img/earn-list-bg-2.png);
+  background-image: url(assets/img/earn-list-bg-2.png);
 }
 .earn-list__item_2 h3:after {
   background-color: #285ecc;
@@ -24986,7 +24986,7 @@ input:focus::placeholder {
 .earn-list__item_3 {
   background-color: #27ad8f0d;
   border-bottom-color: #27ad8f;
-  background-image: url(/assets/img/earn-list-bg-3.png);
+  background-image: url(assets/img/earn-list-bg-3.png);
 }
 .earn-list__item_3 h3:after {
   background-color: #27ad8f;
@@ -24994,7 +24994,7 @@ input:focus::placeholder {
 .earn-list__item_4 {
   background-color: #6e73ff0d;
   border-bottom-color: #6e73ff;
-  background-image: url(/assets/img/earn-list-bg-4.png);
+  background-image: url(assets/img/earn-list-bg-4.png);
 }
 .earn-list__item_4 h3:after {
   background-color: #6e73ff;
@@ -25002,7 +25002,7 @@ input:focus::placeholder {
 .earn-list__item_5 {
   background-color: #652a970d;
   border-bottom-color: #652a97;
-  background-image: url(/assets/img/earn-list-bg-5.png);
+  background-image: url(assets/img/earn-list-bg-5.png);
 }
 .earn-list__item_5 h3:after {
   background-color: #652a97;
@@ -25010,7 +25010,7 @@ input:focus::placeholder {
 .earn-list__item_6 {
   background-color: #f9983e0d;
   border-bottom-color: #f9983e;
-  background-image: url(/assets/img/earn-list-bg-6.png);
+  background-image: url(assets/img/earn-list-bg-6.png);
 }
 .earn-list__item_6 h3:after {
   background-color: #f9983e;
@@ -25018,7 +25018,7 @@ input:focus::placeholder {
 .earn-list__item_7 {
   background-color: #81b0ae0d;
   border-bottom-color: #81b0ae;
-  background-image: url(/assets/img/earn-list-bg-7.png);
+  background-image: url(assets/img/earn-list-bg-7.png);
 }
 .earn-list__item_7 h3:after {
   background-color: #81b0ae;
@@ -25026,7 +25026,7 @@ input:focus::placeholder {
 .earn-list__item_8 {
   background-color: #4444440d;
   border-bottom-color: #444;
-  background-image: url(/assets/img/earn-list-bg-8.png);
+  background-image: url(assets/img/earn-list-bg-8.png);
 }
 .earn-list__item_8 h3:after {
   background-color: #444;
@@ -25052,7 +25052,7 @@ input:focus::placeholder {
   margin: 0 auto 95px;
   width: 100%;
   background-color: #fff;
-  background-image: url(/assets/img/earn-bg-2.png);
+  background-image: url(assets/img/earn-bg-2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -25135,7 +25135,7 @@ input:focus::placeholder {
   width: 100%;
   height: 100%;
   content: '';
-  background-image: url(/assets/img/earn-assets-bg.svg);
+  background-image: url(assets/img/earn-assets-bg.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 100% 100%;
@@ -25470,7 +25470,7 @@ input:focus::placeholder {
 }
 .invest-bot {
   padding: 246px 0 120px;
-  background-image: url(/assets/img/invest-bot-bg.png);
+  background-image: url(assets/img/invest-bot-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -25574,100 +25574,100 @@ input:focus::placeholder {
   background-position: 22px 37px;
 }
 .invest-select .jq-selectbox.stable {
-  background-image: url(/assets/img/stable-2.svg);
+  background-image: url(assets/img/stable-2.svg);
 }
 .invest-select .jq-selectbox.all {
-  background-image: url(/assets/img/all-2.svg);
+  background-image: url(assets/img/all-2.svg);
 }
 .invest-select .jq-selectbox.usd {
-  background-image: url(/assets/img/usd-2.svg);
+  background-image: url(assets/img/usd-2.svg);
 }
 .invest-select .jq-selectbox.btc {
-  background-image: url(/assets/img/btc-2.svg);
+  background-image: url(assets/img/btc-2.svg);
 }
 .invest-select .jq-selectbox.eth {
-  background-image: url(/assets/img/eth-2.svg);
+  background-image: url(assets/img/eth-2.svg);
 }
 .invest-select .jq-selectbox.ltc {
-  background-image: url(/assets/img/ltc-2.svg);
+  background-image: url(assets/img/ltc-2.svg);
 }
 .invest-select .jq-selectbox.trx {
-  background-image: url(/assets/img/trx-2.svg);
+  background-image: url(assets/img/trx-2.svg);
 }
 .invest-select .jq-selectbox.usdt {
-  background-image: url(/assets/img/usdt-2.svg);
+  background-image: url(assets/img/usdt-2.svg);
 }
 .invest-select .jq-selectbox.usdc {
-  background-image: url(/assets/img/usdc-2.svg);
+  background-image: url(assets/img/usdc-2.svg);
 }
 .invest-select .jq-selectbox.busd {
-  background-image: url(/assets/img/busd-2.svg);
+  background-image: url(assets/img/busd-2.svg);
 }
 .invest-select .jq-selectbox.bnb {
-  background-image: url(/assets/img/bnb-2.svg);
+  background-image: url(assets/img/bnb-2.svg);
 }
 .invest-select .jq-selectbox.ada {
-  background-image: url(/assets/img/ada-2.svg);
+  background-image: url(assets/img/ada-2.svg);
 }
 .invest-select .jq-selectbox.xrp {
-  background-image: url(/assets/img/xrp-2.svg);
+  background-image: url(assets/img/xrp-2.svg);
 }
 .invest-select .jq-selectbox.bch {
-  background-image: url(/assets/img/bch-2.svg);
+  background-image: url(assets/img/bch-2.svg);
 }
 .invest-select .jq-selectbox.dai {
-  background-image: url(/assets/img/dai-2.svg);
+  background-image: url(assets/img/dai-2.svg);
 }
 .invest-select .jq-selectbox.sol {
-  background-image: url(/assets/img/sol-2.svg);
+  background-image: url(assets/img/sol-2.svg);
 }
 .invest-select .jq-selectbox.cro {
-  background-image: url(/assets/img/cro-2.svg);
+  background-image: url(assets/img/cro-2.svg);
 }
 .invest-select .jq-selectbox.etc {
-  background-image: url(/assets/img/etc-2.svg);
+  background-image: url(assets/img/etc-2.svg);
 }
 .invest-select .jq-selectbox.doge {
-  background-image: url(/assets/img/doge-2.svg);
+  background-image: url(assets/img/doge-2.svg);
 }
 .invest-select .jq-selectbox.avax {
-  background-image: url(/assets/img/avax-2.svg);
+  background-image: url(assets/img/avax-2.svg);
 }
 .invest-select .jq-selectbox.flow {
-  background-image: url(/assets/img/flow-2.svg);
+  background-image: url(assets/img/flow-2.svg);
 }
 .invest-select .jq-selectbox.xmr {
-  background-image: url(/assets/img/xmr-2.svg);
+  background-image: url(assets/img/xmr-2.svg);
 }
 .invest-select .jq-selectbox.link {
-  background-image: url(/assets/img/link-2.svg);
+  background-image: url(assets/img/link-2.svg);
 }
 .invest-select .jq-selectbox.atom {
-  background-image: url(/assets/img/atom-2.svg);
+  background-image: url(assets/img/atom-2.svg);
 }
 .invest-select .jq-selectbox.algo {
-  background-image: url(/assets/img/algo-2.svg);
+  background-image: url(assets/img/algo-2.svg);
 }
 .invest-select .jq-selectbox.dot {
-  background-image: url(/assets/img/dot-2.svg);
+  background-image: url(assets/img/dot-2.svg);
 }
 .invest-select .jq-selectbox.ftt {
-  background-image: url(/assets/img/ftt-2.svg);
+  background-image: url(assets/img/ftt-2.svg);
 }
 .invest-select .jq-selectbox.xlm {
-  background-image: url(/assets/img/xlm-2.svg);
+  background-image: url(assets/img/xlm-2.svg);
 }
 .invest-select .jq-selectbox.matic {
-  background-image: url(/assets/img/matic-2.svg);
+  background-image: url(assets/img/matic-2.svg);
 }
 .invest-select .jq-selectbox.near {
-  background-image: url(/assets/img/near-2.svg);
+  background-image: url(assets/img/near-2.svg);
 }
 .invest-select .jq-selectbox.tusd {
-  background-image: url(/assets/img/tusd-2.svg);
+  background-image: url(assets/img/tusd-2.svg);
 }
 .invest-select .jq-selectbox.usdp {
-  background-image: url(/assets/img/usdp-2.svg);
+  background-image: url(assets/img/usdp-2.svg);
 }
 .invest-select .jq-selectbox.stable,
 .invest-select .jq-selectbox.all {
@@ -25766,100 +25766,100 @@ input:focus::placeholder {
   transition: all 0.3s ease;
 }
 .invest-select .jq-selectbox__dropdown li.stable {
-  background-image: url(/assets/img/stable-2.svg);
+  background-image: url(assets/img/stable-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.all {
-  background-image: url(/assets/img/all-2.svg);
+  background-image: url(assets/img/all-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.usd {
-  background-image: url(/assets/img/usd-2.svg);
+  background-image: url(assets/img/usd-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.btc {
-  background-image: url(/assets/img/btc-2.svg);
+  background-image: url(assets/img/btc-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.eth {
-  background-image: url(/assets/img/eth-2.svg);
+  background-image: url(assets/img/eth-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.ltc {
-  background-image: url(/assets/img/ltc-2.svg);
+  background-image: url(assets/img/ltc-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.trx {
-  background-image: url(/assets/img/trx-2.svg);
+  background-image: url(assets/img/trx-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.usdt {
-  background-image: url(/assets/img/usdt-2.svg);
+  background-image: url(assets/img/usdt-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.usdc {
-  background-image: url(/assets/img/usdc-2.svg);
+  background-image: url(assets/img/usdc-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.busd {
-  background-image: url(/assets/img/busd-2.svg);
+  background-image: url(assets/img/busd-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.bnb {
-  background-image: url(/assets/img/bnb-2.svg);
+  background-image: url(assets/img/bnb-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.ada {
-  background-image: url(/assets/img/ada-2.svg);
+  background-image: url(assets/img/ada-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.xrp {
-  background-image: url(/assets/img/xrp-2.svg);
+  background-image: url(assets/img/xrp-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.bch {
-  background-image: url(/assets/img/bch-2.svg);
+  background-image: url(assets/img/bch-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.dai {
-  background-image: url(/assets/img/dai-2.svg);
+  background-image: url(assets/img/dai-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.sol {
-  background-image: url(/assets/img/sol-2.svg);
+  background-image: url(assets/img/sol-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.cro {
-  background-image: url(/assets/img/cro-2.svg);
+  background-image: url(assets/img/cro-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.etc {
-  background-image: url(/assets/img/etc-2.svg);
+  background-image: url(assets/img/etc-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.doge {
-  background-image: url(/assets/img/doge-2.svg);
+  background-image: url(assets/img/doge-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.avax {
-  background-image: url(/assets/img/avax-2.svg);
+  background-image: url(assets/img/avax-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.flow {
-  background-image: url(/assets/img/flow-2.svg);
+  background-image: url(assets/img/flow-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.xmr {
-  background-image: url(/assets/img/xmr-2.svg);
+  background-image: url(assets/img/xmr-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.link {
-  background-image: url(/assets/img/link-2.svg);
+  background-image: url(assets/img/link-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.atom {
-  background-image: url(/assets/img/atom-2.svg);
+  background-image: url(assets/img/atom-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.algo {
-  background-image: url(/assets/img/algo-2.svg);
+  background-image: url(assets/img/algo-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.dot {
-  background-image: url(/assets/img/dot-2.svg);
+  background-image: url(assets/img/dot-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.ftt {
-  background-image: url(/assets/img/ftt-2.svg);
+  background-image: url(assets/img/ftt-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.xlm {
-  background-image: url(/assets/img/xlm-2.svg);
+  background-image: url(assets/img/xlm-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.matic {
-  background-image: url(/assets/img/matic-2.svg);
+  background-image: url(assets/img/matic-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.near {
-  background-image: url(/assets/img/near-2.svg);
+  background-image: url(assets/img/near-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.tusd {
-  background-image: url(/assets/img/tusd-2.svg);
+  background-image: url(assets/img/tusd-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.usdp {
-  background-image: url(/assets/img/usdp-2.svg);
+  background-image: url(assets/img/usdp-2.svg);
 }
 .invest-select .jq-selectbox__dropdown li.stable span {
   font-size: 10px;
@@ -25950,7 +25950,7 @@ input:focus::placeholder {
 }
 .invest-table__calc {
   padding: 17px 21px 21px 51px;
-  background-image: url(/assets/img/invest-calc-bg.png);
+  background-image: url(assets/img/invest-calc-bg.png);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: auto auto;
@@ -26372,7 +26372,7 @@ input:focus::placeholder {
   transform: translate(-50%);
   bottom: 0;
   height: calc(100% - 118px);
-  background-image: url(/assets/img/invest-table-item-bg.png);
+  background-image: url(assets/img/invest-table-item-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -26736,7 +26736,7 @@ input:focus::placeholder {
 }
 .invest-center__wrap {
   margin: 0 auto;
-  background-image: url(/assets/img/invest-center-bg.png);
+  background-image: url(assets/img/invest-center-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -26909,7 +26909,7 @@ input:focus::placeholder {
 .invest-plans__slider {
   width: 100%;
   position: relative;
-  background-image: url(/assets/img/invest-plans-line.svg);
+  background-image: url(assets/img/invest-plans-line.svg);
   background-repeat: repeat-x;
   background-position: 0 calc(100% - 83px);
   background-size: contain;
@@ -27331,7 +27331,7 @@ input:focus::placeholder {
   border: 1px solid #f0f0f0;
   border-radius: 48px;
   padding: 46px 52px 57px;
-  background-image: url(/assets/img/invest-steps-bg.png);
+  background-image: url(assets/img/invest-steps-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -27385,25 +27385,25 @@ input:focus::placeholder {
   }
 }
 .invest-steps__item_2 {
-  background-image: url(/assets/img/invest-steps-bg-2.png);
+  background-image: url(assets/img/invest-steps-bg-2.png);
 }
 .invest-steps__item_3 {
-  background-image: url(/assets/img/invest-steps-bg-3.png);
+  background-image: url(assets/img/invest-steps-bg-3.png);
 }
 .invest-steps__item_4 {
-  background-image: url(/assets/img/invest-steps-bg-4.png);
+  background-image: url(assets/img/invest-steps-bg-4.png);
 }
 .invest-steps__item_5 {
-  background-image: url(/assets/img/invest-steps-bg-5.png);
+  background-image: url(assets/img/invest-steps-bg-5.png);
 }
 .invest-steps__item_6 {
-  background-image: url(/assets/img/invest-steps-bg-6.png);
+  background-image: url(assets/img/invest-steps-bg-6.png);
 }
 .invest-steps__item_7 {
-  background-image: url(/assets/img/invest-steps-bg-7.png);
+  background-image: url(assets/img/invest-steps-bg-7.png);
 }
 .invest-steps__item_8 {
-  background-image: url(/assets/img/invest-steps-bg-8.png);
+  background-image: url(assets/img/invest-steps-bg-8.png);
 }
 .invest-steps__head {
   width: 100%;
@@ -27440,7 +27440,7 @@ input:focus::placeholder {
   overflow: hidden;
 }
 .invest-why__top {
-  background-image: url(/assets/img/invest-why-top.png);
+  background-image: url(assets/img/invest-why-top.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -27459,7 +27459,7 @@ input:focus::placeholder {
   }
 }
 .invest-why__bot {
-  background-image: url(/assets/img/invest-why-bot.png);
+  background-image: url(assets/img/invest-why-bot.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -27616,7 +27616,7 @@ input:focus::placeholder {
   }
 }
 .invest-why__item:after {
-  background-image: url(/assets/img/invest-why-icon.svg);
+  background-image: url(assets/img/invest-why-icon.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -27671,7 +27671,7 @@ input:focus::placeholder {
 .invest-info {
   display: table;
   margin: 20px auto 70px;
-  background: url(/assets/img/invest-why-top.png);
+  background: url(assets/img/invest-why-top.png);
   background-position: center;
   border-radius: 8px;
   box-shadow: 0 15px 50px #0009;
@@ -27770,7 +27770,7 @@ input:focus::placeholder {
 .refs-bot {
   width: 100%;
   padding-top: 261px;
-  background-image: url(/assets/img/refs-bot-bg.png);
+  background-image: url(assets/img/refs-bot-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -27825,7 +27825,7 @@ input:focus::placeholder {
   width: -moz-calc(100% / 5);
   width: 20%;
   flex-wrap: wrap;
-  background-image: url(/assets/img/refs-benefits-bg.png);
+  background-image: url(assets/img/refs-benefits-bg.png);
   background-repeat: no-repeat;
   background-position: 100% 0;
   background-size: 100% 100%;
@@ -27880,7 +27880,7 @@ input:focus::placeholder {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url(/assets/img/refs-benefits-icon-bg.png);
+  background-image: url(assets/img/refs-benefits-icon-bg.png);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -27908,7 +27908,7 @@ input:focus::placeholder {
   padding: 78px 0 110px;
   width: 100%;
   background-color: #fff;
-  background-image: url(/assets/img/refs-table-bg.png);
+  background-image: url(assets/img/refs-table-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -28199,7 +28199,7 @@ input:focus::placeholder {
 .refs-more {
   margin: 0 auto;
   width: 100%;
-  background-image: url(/assets/img/refs-more-bg.png);
+  background-image: url(assets/img/refs-more-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -28245,7 +28245,7 @@ input:focus::placeholder {
   margin: 0 auto;
   padding: 110px 0 1px;
   width: 100%;
-  background-image: url(/assets/img/refs-why-bg.png);
+  background-image: url(assets/img/refs-why-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -28265,7 +28265,7 @@ input:focus::placeholder {
   }
 }
 .refs-why__list {
-  background-image: url(/assets/img/refs-why-list-bg.png);
+  background-image: url(assets/img/refs-why-list-bg.png);
   background-size: 489px auto;
   background-position: 50% calc(50% + 13px);
   background-repeat: no-repeat;
@@ -28365,7 +28365,7 @@ input:focus::placeholder {
 .refs-start {
   width: calc(100% + 216px);
   padding: 88px 108px 97px;
-  background-image: url(/assets/img/refs-start-bg.png);
+  background-image: url(assets/img/refs-start-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -28613,100 +28613,100 @@ input:focus::placeholder {
   font-weight: 400;
 }
 .modal-title__select .jq-selectbox__dropdown li.stable {
-  background-image: url(/assets/img/stable.svg);
+  background-image: url(assets/img/stable.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.all {
-  background-image: url(/assets/img/all.svg);
+  background-image: url(assets/img/all.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.usd {
-  background-image: url(/assets/img/usd.svg);
+  background-image: url(assets/img/usd.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.btc {
-  background-image: url(/assets/img/btc.svg);
+  background-image: url(assets/img/btc.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.eth {
-  background-image: url(/assets/img/eth.svg);
+  background-image: url(assets/img/eth.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.ltc {
-  background-image: url(/assets/img/ltc.svg);
+  background-image: url(assets/img/ltc.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.trx {
-  background-image: url(/assets/img/trx.svg);
+  background-image: url(assets/img/trx.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.usdt {
-  background-image: url(/assets/img/usdt.svg);
+  background-image: url(assets/img/usdt.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.usdc {
-  background-image: url(/assets/img/usdc.svg);
+  background-image: url(assets/img/usdc.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.busd {
-  background-image: url(/assets/img/busd.svg);
+  background-image: url(assets/img/busd.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.bnb {
-  background-image: url(/assets/img/bnb.svg);
+  background-image: url(assets/img/bnb.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.ada {
-  background-image: url(/assets/img/ada.svg);
+  background-image: url(assets/img/ada.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.xrp {
-  background-image: url(/assets/img/xrp.svg);
+  background-image: url(assets/img/xrp.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.bch {
-  background-image: url(/assets/img/bch.svg);
+  background-image: url(assets/img/bch.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.dai {
-  background-image: url(/assets/img/dai.svg);
+  background-image: url(assets/img/dai.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.sol {
-  background-image: url(/assets/img/sol.svg);
+  background-image: url(assets/img/sol.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.cro {
-  background-image: url(/assets/img/cro.svg);
+  background-image: url(assets/img/cro.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.etc {
-  background-image: url(/assets/img/etc.svg);
+  background-image: url(assets/img/etc.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.doge {
-  background-image: url(/assets/img/doge.svg);
+  background-image: url(assets/img/doge.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.avax {
-  background-image: url(/assets/img/avax.svg);
+  background-image: url(assets/img/avax.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.flow {
-  background-image: url(/assets/img/flow.svg);
+  background-image: url(assets/img/flow.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.xmr {
-  background-image: url(/assets/img/xmr.svg);
+  background-image: url(assets/img/xmr.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.link {
-  background-image: url(/assets/img/link.svg);
+  background-image: url(assets/img/link.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.atom {
-  background-image: url(/assets/img/atom.svg);
+  background-image: url(assets/img/atom.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.algo {
-  background-image: url(/assets/img/algo.svg);
+  background-image: url(assets/img/algo.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.dot {
-  background-image: url(/assets/img/dot.svg);
+  background-image: url(assets/img/dot.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.ftt {
-  background-image: url(/assets/img/ftt.svg);
+  background-image: url(assets/img/ftt.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.xlm {
-  background-image: url(/assets/img/xlm.svg);
+  background-image: url(assets/img/xlm.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.matic {
-  background-image: url(/assets/img/matic.svg);
+  background-image: url(assets/img/matic.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.near {
-  background-image: url(/assets/img/near.svg);
+  background-image: url(assets/img/near.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.tusd {
-  background-image: url(/assets/img/tusd.svg);
+  background-image: url(assets/img/tusd.svg);
 }
 .modal-title__select .jq-selectbox__dropdown li.usdp {
-  background-image: url(/assets/img/usdp.svg);
+  background-image: url(assets/img/usdp.svg);
 }
 .modal-title_row {
   flex-direction: row;
@@ -28878,100 +28878,100 @@ input:focus::placeholder {
   font-weight: 400;
 }
 .modal-select .jq-selectbox__dropdown li.stable {
-  background-image: url(/assets/img/stable.svg);
+  background-image: url(assets/img/stable.svg);
 }
 .modal-select .jq-selectbox__dropdown li.all {
-  background-image: url(/assets/img/all.svg);
+  background-image: url(assets/img/all.svg);
 }
 .modal-select .jq-selectbox__dropdown li.usd {
-  background-image: url(/assets/img/usd.svg);
+  background-image: url(assets/img/usd.svg);
 }
 .modal-select .jq-selectbox__dropdown li.btc {
-  background-image: url(/assets/img/btc.svg);
+  background-image: url(assets/img/btc.svg);
 }
 .modal-select .jq-selectbox__dropdown li.eth {
-  background-image: url(/assets/img/eth.svg);
+  background-image: url(assets/img/eth.svg);
 }
 .modal-select .jq-selectbox__dropdown li.ltc {
-  background-image: url(/assets/img/ltc.svg);
+  background-image: url(assets/img/ltc.svg);
 }
 .modal-select .jq-selectbox__dropdown li.trx {
-  background-image: url(/assets/img/trx.svg);
+  background-image: url(assets/img/trx.svg);
 }
 .modal-select .jq-selectbox__dropdown li.usdt {
-  background-image: url(/assets/img/usdt.svg);
+  background-image: url(assets/img/usdt.svg);
 }
 .modal-select .jq-selectbox__dropdown li.usdc {
-  background-image: url(/assets/img/usdc.svg);
+  background-image: url(assets/img/usdc.svg);
 }
 .modal-select .jq-selectbox__dropdown li.busd {
-  background-image: url(/assets/img/busd.svg);
+  background-image: url(assets/img/busd.svg);
 }
 .modal-select .jq-selectbox__dropdown li.bnb {
-  background-image: url(/assets/img/bnb.svg);
+  background-image: url(assets/img/bnb.svg);
 }
 .modal-select .jq-selectbox__dropdown li.ada {
-  background-image: url(/assets/img/ada.svg);
+  background-image: url(assets/img/ada.svg);
 }
 .modal-select .jq-selectbox__dropdown li.xrp {
-  background-image: url(/assets/img/xrp.svg);
+  background-image: url(assets/img/xrp.svg);
 }
 .modal-select .jq-selectbox__dropdown li.bch {
-  background-image: url(/assets/img/bch.svg);
+  background-image: url(assets/img/bch.svg);
 }
 .modal-select .jq-selectbox__dropdown li.dai {
-  background-image: url(/assets/img/dai.svg);
+  background-image: url(assets/img/dai.svg);
 }
 .modal-select .jq-selectbox__dropdown li.sol {
-  background-image: url(/assets/img/sol.svg);
+  background-image: url(assets/img/sol.svg);
 }
 .modal-select .jq-selectbox__dropdown li.cro {
-  background-image: url(/assets/img/cro.svg);
+  background-image: url(assets/img/cro.svg);
 }
 .modal-select .jq-selectbox__dropdown li.etc {
-  background-image: url(/assets/img/etc.svg);
+  background-image: url(assets/img/etc.svg);
 }
 .modal-select .jq-selectbox__dropdown li.doge {
-  background-image: url(/assets/img/doge.svg);
+  background-image: url(assets/img/doge.svg);
 }
 .modal-select .jq-selectbox__dropdown li.avax {
-  background-image: url(/assets/img/avax.svg);
+  background-image: url(assets/img/avax.svg);
 }
 .modal-select .jq-selectbox__dropdown li.flow {
-  background-image: url(/assets/img/flow.svg);
+  background-image: url(assets/img/flow.svg);
 }
 .modal-select .jq-selectbox__dropdown li.xmr {
-  background-image: url(/assets/img/xmr.svg);
+  background-image: url(assets/img/xmr.svg);
 }
 .modal-select .jq-selectbox__dropdown li.link {
-  background-image: url(/assets/img/link.svg);
+  background-image: url(assets/img/link.svg);
 }
 .modal-select .jq-selectbox__dropdown li.atom {
-  background-image: url(/assets/img/atom.svg);
+  background-image: url(assets/img/atom.svg);
 }
 .modal-select .jq-selectbox__dropdown li.algo {
-  background-image: url(/assets/img/algo.svg);
+  background-image: url(assets/img/algo.svg);
 }
 .modal-select .jq-selectbox__dropdown li.dot {
-  background-image: url(/assets/img/dot.svg);
+  background-image: url(assets/img/dot.svg);
 }
 .modal-select .jq-selectbox__dropdown li.ftt {
-  background-image: url(/assets/img/ftt.svg);
+  background-image: url(assets/img/ftt.svg);
 }
 .modal-select .jq-selectbox__dropdown li.xlm {
-  background-image: url(/assets/img/xlm.svg);
+  background-image: url(assets/img/xlm.svg);
 }
 .modal-select .jq-selectbox__dropdown li.matic {
-  background-image: url(/assets/img/matic.svg);
+  background-image: url(assets/img/matic.svg);
 }
 .modal-select .jq-selectbox__dropdown li.near {
-  background-image: url(/assets/img/near.svg);
+  background-image: url(assets/img/near.svg);
 }
 .modal-select .jq-selectbox__dropdown li.tusd {
-  background-image: url(/assets/img/tusd.svg);
+  background-image: url(assets/img/tusd.svg);
 }
 .modal-select .jq-selectbox__dropdown li.usdp {
-  background-image: url(/assets/img/usdp.svg);
+  background-image: url(assets/img/usdp.svg);
 }
 .modal-select .jq-selectbox__trigger {
   display: none;
@@ -29051,196 +29051,196 @@ input:focus::placeholder {
   text-transform: uppercase;
 }
 .modal-select_icon .jq-selectbox__dropdown li.stable {
-  background-image: url(/assets/img/stable-2.svg);
+  background-image: url(assets/img/stable-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.all {
-  background-image: url(/assets/img/all-2.svg);
+  background-image: url(assets/img/all-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.usd {
-  background-image: url(/assets/img/usd-2.svg);
+  background-image: url(assets/img/usd-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.btc {
-  background-image: url(/assets/img/btc-2.svg);
+  background-image: url(assets/img/btc-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.eth {
-  background-image: url(/assets/img/eth-2.svg);
+  background-image: url(assets/img/eth-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.ltc {
-  background-image: url(/assets/img/ltc-2.svg);
+  background-image: url(assets/img/ltc-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.trx {
-  background-image: url(/assets/img/trx-2.svg);
+  background-image: url(assets/img/trx-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.usdt {
-  background-image: url(/assets/img/usdt-2.svg);
+  background-image: url(assets/img/usdt-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.usdc {
-  background-image: url(/assets/img/usdc-2.svg);
+  background-image: url(assets/img/usdc-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.busd {
-  background-image: url(/assets/img/busd-2.svg);
+  background-image: url(assets/img/busd-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.bnb {
-  background-image: url(/assets/img/bnb-2.svg);
+  background-image: url(assets/img/bnb-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.ada {
-  background-image: url(/assets/img/ada-2.svg);
+  background-image: url(assets/img/ada-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.xrp {
-  background-image: url(/assets/img/xrp-2.svg);
+  background-image: url(assets/img/xrp-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.bch {
-  background-image: url(/assets/img/bch-2.svg);
+  background-image: url(assets/img/bch-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.dai {
-  background-image: url(/assets/img/dai-2.svg);
+  background-image: url(assets/img/dai-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.sol {
-  background-image: url(/assets/img/sol-2.svg);
+  background-image: url(assets/img/sol-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.cro {
-  background-image: url(/assets/img/cro-2.svg);
+  background-image: url(assets/img/cro-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.etc {
-  background-image: url(/assets/img/etc-2.svg);
+  background-image: url(assets/img/etc-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.doge {
-  background-image: url(/assets/img/doge-2.svg);
+  background-image: url(assets/img/doge-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.avax {
-  background-image: url(/assets/img/avax-2.svg);
+  background-image: url(assets/img/avax-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.flow {
-  background-image: url(/assets/img/flow-2.svg);
+  background-image: url(assets/img/flow-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.xmr {
-  background-image: url(/assets/img/xmr-2.svg);
+  background-image: url(assets/img/xmr-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.link {
-  background-image: url(/assets/img/link-2.svg);
+  background-image: url(assets/img/link-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.atom {
-  background-image: url(/assets/img/atom-2.svg);
+  background-image: url(assets/img/atom-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.algo {
-  background-image: url(/assets/img/algo-2.svg);
+  background-image: url(assets/img/algo-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.dot {
-  background-image: url(/assets/img/dot-2.svg);
+  background-image: url(assets/img/dot-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.ftt {
-  background-image: url(/assets/img/ftt-2.svg);
+  background-image: url(assets/img/ftt-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.xlm {
-  background-image: url(/assets/img/xlm-2.svg);
+  background-image: url(assets/img/xlm-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.matic {
-  background-image: url(/assets/img/matic-2.svg);
+  background-image: url(assets/img/matic-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.near {
-  background-image: url(/assets/img/near-2.svg);
+  background-image: url(assets/img/near-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.tusd {
-  background-image: url(/assets/img/tusd-2.svg);
+  background-image: url(assets/img/tusd-2.svg);
 }
 .modal-select_icon .jq-selectbox__dropdown li.usdp {
-  background-image: url(/assets/img/usdp-2.svg);
+  background-image: url(assets/img/usdp-2.svg);
 }
 .modal-select_icon .jq-selectbox.stable .jq-selectbox__select-text {
-  background-image: url(/assets/img/stable-2.svg);
+  background-image: url(assets/img/stable-2.svg);
 }
 .modal-select_icon .jq-selectbox.all .jq-selectbox__select-text {
-  background-image: url(/assets/img/all-2.svg);
+  background-image: url(assets/img/all-2.svg);
 }
 .modal-select_icon .jq-selectbox.usd .jq-selectbox__select-text {
-  background-image: url(/assets/img/usd-2.svg);
+  background-image: url(assets/img/usd-2.svg);
 }
 .modal-select_icon .jq-selectbox.btc .jq-selectbox__select-text {
-  background-image: url(/assets/img/btc-2.svg);
+  background-image: url(assets/img/btc-2.svg);
 }
 .modal-select_icon .jq-selectbox.eth .jq-selectbox__select-text {
-  background-image: url(/assets/img/eth-2.svg);
+  background-image: url(assets/img/eth-2.svg);
 }
 .modal-select_icon .jq-selectbox.ltc .jq-selectbox__select-text {
-  background-image: url(/assets/img/ltc-2.svg);
+  background-image: url(assets/img/ltc-2.svg);
 }
 .modal-select_icon .jq-selectbox.trx .jq-selectbox__select-text {
-  background-image: url(/assets/img/trx-2.svg);
+  background-image: url(assets/img/trx-2.svg);
 }
 .modal-select_icon .jq-selectbox.usdt .jq-selectbox__select-text {
-  background-image: url(/assets/img/usdt-2.svg);
+  background-image: url(assets/img/usdt-2.svg);
 }
 .modal-select_icon .jq-selectbox.usdc .jq-selectbox__select-text {
-  background-image: url(/assets/img/usdc-2.svg);
+  background-image: url(assets/img/usdc-2.svg);
 }
 .modal-select_icon .jq-selectbox.busd .jq-selectbox__select-text {
-  background-image: url(/assets/img/busd-2.svg);
+  background-image: url(assets/img/busd-2.svg);
 }
 .modal-select_icon .jq-selectbox.bnb .jq-selectbox__select-text {
-  background-image: url(/assets/img/bnb-2.svg);
+  background-image: url(assets/img/bnb-2.svg);
 }
 .modal-select_icon .jq-selectbox.ada .jq-selectbox__select-text {
-  background-image: url(/assets/img/ada-2.svg);
+  background-image: url(assets/img/ada-2.svg);
 }
 .modal-select_icon .jq-selectbox.xrp .jq-selectbox__select-text {
-  background-image: url(/assets/img/xrp-2.svg);
+  background-image: url(assets/img/xrp-2.svg);
 }
 .modal-select_icon .jq-selectbox.bch .jq-selectbox__select-text {
-  background-image: url(/assets/img/bch-2.svg);
+  background-image: url(assets/img/bch-2.svg);
 }
 .modal-select_icon .jq-selectbox.dai .jq-selectbox__select-text {
-  background-image: url(/assets/img/dai-2.svg);
+  background-image: url(assets/img/dai-2.svg);
 }
 .modal-select_icon .jq-selectbox.sol .jq-selectbox__select-text {
-  background-image: url(/assets/img/sol-2.svg);
+  background-image: url(assets/img/sol-2.svg);
 }
 .modal-select_icon .jq-selectbox.cro .jq-selectbox__select-text {
-  background-image: url(/assets/img/cro-2.svg);
+  background-image: url(assets/img/cro-2.svg);
 }
 .modal-select_icon .jq-selectbox.etc .jq-selectbox__select-text {
-  background-image: url(/assets/img/etc-2.svg);
+  background-image: url(assets/img/etc-2.svg);
 }
 .modal-select_icon .jq-selectbox.doge .jq-selectbox__select-text {
-  background-image: url(/assets/img/doge-2.svg);
+  background-image: url(assets/img/doge-2.svg);
 }
 .modal-select_icon .jq-selectbox.avax .jq-selectbox__select-text {
-  background-image: url(/assets/img/avax-2.svg);
+  background-image: url(assets/img/avax-2.svg);
 }
 .modal-select_icon .jq-selectbox.flow .jq-selectbox__select-text {
-  background-image: url(/assets/img/flow-2.svg);
+  background-image: url(assets/img/flow-2.svg);
 }
 .modal-select_icon .jq-selectbox.xmr .jq-selectbox__select-text {
-  background-image: url(/assets/img/xmr-2.svg);
+  background-image: url(assets/img/xmr-2.svg);
 }
 .modal-select_icon .jq-selectbox.link .jq-selectbox__select-text {
-  background-image: url(/assets/img/link-2.svg);
+  background-image: url(assets/img/link-2.svg);
 }
 .modal-select_icon .jq-selectbox.atom .jq-selectbox__select-text {
-  background-image: url(/assets/img/atom-2.svg);
+  background-image: url(assets/img/atom-2.svg);
 }
 .modal-select_icon .jq-selectbox.algo .jq-selectbox__select-text {
-  background-image: url(/assets/img/algo-2.svg);
+  background-image: url(assets/img/algo-2.svg);
 }
 .modal-select_icon .jq-selectbox.dot .jq-selectbox__select-text {
-  background-image: url(/assets/img/dot-2.svg);
+  background-image: url(assets/img/dot-2.svg);
 }
 .modal-select_icon .jq-selectbox.ftt .jq-selectbox__select-text {
-  background-image: url(/assets/img/ftt-2.svg);
+  background-image: url(assets/img/ftt-2.svg);
 }
 .modal-select_icon .jq-selectbox.xlm .jq-selectbox__select-text {
-  background-image: url(/assets/img/xlm-2.svg);
+  background-image: url(assets/img/xlm-2.svg);
 }
 .modal-select_icon .jq-selectbox.matic .jq-selectbox__select-text {
-  background-image: url(/assets/img/matic-2.svg);
+  background-image: url(assets/img/matic-2.svg);
 }
 .modal-select_icon .jq-selectbox.near .jq-selectbox__select-text {
-  background-image: url(/assets/img/near-2.svg);
+  background-image: url(assets/img/near-2.svg);
 }
 .modal-select_icon .jq-selectbox.tusd .jq-selectbox__select-text {
-  background-image: url(/assets/img/tusd-2.svg);
+  background-image: url(assets/img/tusd-2.svg);
 }
 .modal-select_icon .jq-selectbox.usdp .jq-selectbox__select-text {
-  background-image: url(/assets/img/usdp-2.svg);
+  background-image: url(assets/img/usdp-2.svg);
 }
 .modal-sum {
   width: 100%;
@@ -29339,7 +29339,7 @@ input:focus::placeholder {
   top: 50%;
   transform: translateY(-50%);
   border-radius: 50%;
-  background-image: url(/assets/img/slider-arrow.svg);
+  background-image: url(assets/img/slider-arrow.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   border: none;
@@ -29349,7 +29349,7 @@ input:focus::placeholder {
 }
 .modal-stat {
   position: relative;
-  background-image: url(/assets/img/modal-stat-bg.png);
+  background-image: url(assets/img/modal-stat-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -29378,7 +29378,7 @@ input:focus::placeholder {
 .modal-stat:after {
   width: 85px;
   height: 33px;
-  background-image: url(/assets/img/modal-stat-arrow.svg);
+  background-image: url(assets/img/modal-stat-arrow.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 100% 100%;
@@ -30095,7 +30095,7 @@ input:focus::placeholder {
 }
 .modal_plan .modal-wrap {
   max-width: 774px;
-  background-image: url(/assets/img/modal-plan-bg.png);
+  background-image: url(assets/img/modal-plan-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -30920,7 +30920,7 @@ input:focus::placeholder {
   transform: translate(-50%, -50%);
   width: 458px;
   height: 458px;
-  background-image: url(/assets/img/refs-scene-bg.png);
+  background-image: url(assets/img/refs-scene-bg.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -30974,7 +30974,7 @@ input:focus::placeholder {
   font-size: 60px;
   color: #56ce60;
   padding-right: 40px;
-  background-image: url(/assets/img/refs-scene-icon-1.svg);
+  background-image: url(assets/img/refs-scene-icon-1.svg);
   background-repeat: no-repeat;
   background-position: 100% 50%;
   background-size: 20px auto;
@@ -31032,7 +31032,7 @@ input:focus::placeholder {
 }
 .cab-refs-scene__bot p {
   padding-right: 16px;
-  background-image: url(/assets/img/refs-scene-icon-2.svg);
+  background-image: url(assets/img/refs-scene-icon-2.svg);
   background-repeat: no-repeat;
   background-position: 100% 35%;
   background-size: 10px auto;
@@ -32182,7 +32182,7 @@ input:focus::placeholder {
   font-size: 12px;
   color: #222;
   padding-bottom: 6px;
-  background-image: url(/assets/img/dot-line.svg);
+  background-image: url(assets/img/dot-line.svg);
   background-position: left bottom;
   background-repeat: repeat-x;
   background-size: 3px 2px;
@@ -32227,7 +32227,7 @@ input:focus::placeholder {
 .cab-geo__city .jq-selectbox__dropdown li.sel {
   color: #f12a23;
   background-color: transparent;
-  background-image: url(/assets/img/sel-check.svg);
+  background-image: url(assets/img/sel-check.svg);
   background-repeat: no-repeat;
   background-size: 9px;
   background-position: 12px 50%;
@@ -32339,7 +32339,7 @@ input:focus::placeholder {
   align-items: center;
   justify-content: space-between;
   position: relative;
-  background-image: url(/assets/img/cab-2fa-bg.png);
+  background-image: url(assets/img/cab-2fa-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -32429,7 +32429,7 @@ input:focus::placeholder {
   display: none;
 }
 .cab-2fa.active {
-  background-image: url(/assets/img/cab-2fa-bg-active.png);
+  background-image: url(assets/img/cab-2fa-bg-active.png);
 }
 .cab-2fa.active .cab-2fa__check-icon span {
   left: auto;
@@ -33508,7 +33508,7 @@ input:focus::placeholder {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/assets/img/cab-btn-bg.png);
+  background-image: url(assets/img/cab-btn-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -33840,7 +33840,7 @@ input:focus::placeholder {
   left: calc(100% + 7px);
   width: 5px;
   height: 10px;
-  background-image: url(/assets/img/filter-arrow.svg);
+  background-image: url(assets/img/filter-arrow.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   content: '';
@@ -33856,7 +33856,7 @@ input:focus::placeholder {
   left: calc(100% + 7px);
   width: 5px;
   height: 10px;
-  background-image: url(/assets/img/filter-arrow.svg);
+  background-image: url(assets/img/filter-arrow.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   content: '';
@@ -34724,7 +34724,7 @@ input:focus::placeholder {
   left: 15px;
   transform: translate(-50%, -50%);
   content: '';
-  background-image: url(/assets/img/eye-hide.svg);
+  background-image: url(assets/img/eye-hide.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -34737,7 +34737,7 @@ input:focus::placeholder {
   left: 15px;
   transform: translate(-50%, -50%);
   content: '';
-  background-image: url(/assets/img/check-2.svg);
+  background-image: url(assets/img/check-2.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -35079,7 +35079,7 @@ input:focus::placeholder {
 }
 .cab-stable {
   width: 100%;
-  background-image: url(/assets/img/cab-stable-bg.png);
+  background-image: url(assets/img/cab-stable-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -36608,7 +36608,7 @@ input:focus::placeholder {
 .cab-modal_usd .cab-modal__wrap {
   padding: 240px 60px 60px;
   max-width: 690px;
-  background-image: url(/assets/img/modal-bg-usd.png);
+  background-image: url(assets/img/modal-bg-usd.png);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: contain;
@@ -37001,7 +37001,7 @@ input:focus::placeholder {
   box-shadow: 0 12px 27px #00000005;
   width: 100%;
   padding: 30px;
-  background-image: url(/assets/img/cab-career-bg.png);
+  background-image: url(assets/img/cab-career-bg.png);
   background-repeat: no-repeat;
   background-position: 100% 100%;
   background-size: auto;
@@ -37093,7 +37093,7 @@ input:focus::placeholder {
   justify-content: flex-start;
   padding: 20px 30px 20px 146px;
   border-radius: 70px;
-  background-image: url(/assets/img/cab-upline-bg.png);
+  background-image: url(assets/img/cab-upline-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -37315,7 +37315,7 @@ input:focus::placeholder {
   height: 51px;
   box-shadow: none;
   border: none;
-  background-image: url(/assets/img/rank-empty.svg);
+  background-image: url(assets/img/rank-empty.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -37464,7 +37464,7 @@ input:focus::placeholder {
   font-size: 10px;
 }
 .cab-turn__bar {
-  background-image: url(/assets/img/cab-prog-bg.png);
+  background-image: url(assets/img/cab-prog-bg.png);
   background-repeat: no-repeat;
   background-position: 0 50%;
   background-size: cover;
@@ -37478,7 +37478,7 @@ input:focus::placeholder {
   top: 0;
   left: 0;
   height: 100%;
-  background-image: url(/assets/img/cab-prog-line.png);
+  background-image: url(assets/img/cab-prog-line.png);
   background-repeat: no-repeat;
   background-position: 0 50%;
   background-size: cover;
@@ -37526,10 +37526,10 @@ input:focus::placeholder {
   color: #56ce60;
 }
 .cab-turn_green .cab-turn__bar {
-  background-image: url(/assets/img/cab-prog-bg-2.png);
+  background-image: url(assets/img/cab-prog-bg-2.png);
 }
 .cab-turn_green .cab-turn__bar span {
-  background-image: url(/assets/img/cab-prog-line-2.png);
+  background-image: url(assets/img/cab-prog-line-2.png);
 }
 .cab-investor__info {
   display: flex;
@@ -37871,7 +37871,7 @@ input:focus::placeholder {
   margin-bottom: 0;
 }
 .cab-news__content p {
-  background-image: url(/assets/img/cab-news-date.svg);
+  background-image: url(assets/img/cab-news-date.svg);
   background-repeat: no-repeat;
   background-position: 0 50%;
   background-size: 12px auto;
@@ -39397,7 +39397,7 @@ input:focus::placeholder {
   color: #f98d51;
 }
 .cab-details {
-  background-image: url(/assets/img/cab-details-bg.png);
+  background-image: url(assets/img/cab-details-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -39507,7 +39507,7 @@ input:focus::placeholder {
   align-items: flex-start;
   justify-content: flex-start;
   margin-bottom: 18px;
-  background-image: url(/assets/img/cab-pass-bg.png);
+  background-image: url(assets/img/cab-pass-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -39700,7 +39700,7 @@ input:focus::placeholder {
   color: #f12a23;
 }
 .cab-wallet {
-  background-image: url(/assets/img/cab-wallet-bg.png);
+  background-image: url(assets/img/cab-wallet-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -39756,7 +39756,7 @@ input:focus::placeholder {
 .cab-wallet__qr-img:after {
   width: calc(100% - 20px);
   height: calc(100% - 20px);
-  background-image: url(/assets/img/cab-wallet-qr-line.svg);
+  background-image: url(assets/img/cab-wallet-qr-line.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -42057,7 +42057,7 @@ input:focus::placeholder {
   }
 }
 .cab-set_bg {
-  background-image: url(/assets/img/cab-set-bg.png);
+  background-image: url(assets/img/cab-set-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -42191,7 +42191,7 @@ input:focus::placeholder {
   margin-bottom: 17px;
 }
 .cab-promo__box_refs {
-  background-image: url(/assets/img/cab-promo-ref-bg.png);
+  background-image: url(assets/img/cab-promo-ref-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -42301,7 +42301,7 @@ input:focus::placeholder {
   bottom: -1px;
   left: 0;
   pointer-events: none;
-  background-image: url(/assets/img/refs-icon.png);
+  background-image: url(assets/img/refs-icon.png);
   content: '';
   background-repeat: no-repeat;
   background-position: 0 100%;
@@ -42776,7 +42776,7 @@ input:focus::placeholder {
   width: 100%;
   background-color: #fef2e3;
   padding: 18px 30px 70px;
-  background-image: url(/assets/img/cab-plan-bg.png);
+  background-image: url(assets/img/cab-plan-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -44469,7 +44469,7 @@ input:focus::placeholder {
   right: 100%;
   width: 24px;
   height: 20px;
-  background-image: url(/assets/img/cab-rank-angle.png);
+  background-image: url(assets/img/cab-rank-angle.png);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: contain;
@@ -44481,7 +44481,7 @@ input:focus::placeholder {
   left: 100%;
   width: 24px;
   height: 20px;
-  background-image: url(/assets/img/cab-rank-angle.png);
+  background-image: url(assets/img/cab-rank-angle.png);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: contain;
@@ -44510,7 +44510,7 @@ input:focus::placeholder {
 .cab-rank__img:after {
   width: 100%;
   height: 34px;
-  background-image: url(/assets/img/cab-rank-circle.png);
+  background-image: url(assets/img/cab-rank-circle.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -44693,7 +44693,7 @@ input:focus::placeholder {
   position: absolute;
   width: 6px;
   height: 6px;
-  background-image: url(/assets/img/cab-rank-line.svg);
+  background-image: url(assets/img/cab-rank-line.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -44747,7 +44747,7 @@ input:focus::placeholder {
   width: 83px;
   height: 100px;
   content: '';
-  background-image: url(/assets/img/cab-rank-lock.png);
+  background-image: url(assets/img/cab-rank-lock.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
@@ -45569,7 +45569,7 @@ input:focus::placeholder {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/assets/img/status.svg) center no-repeat;
+  background: url(assets/img/status.svg) center no-repeat;
   background-size: contain;
   opacity: 0.6;
 }
@@ -45581,7 +45581,7 @@ input:focus::placeholder {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/assets/img/arrow-2.svg) center no-repeat;
+  background: url(assets/img/arrow-2.svg) center no-repeat;
   background-size: contain;
   filter: grayscale(1);
   cursor: pointer;
@@ -45629,7 +45629,7 @@ input:focus::placeholder {
   top: 0;
   right: 0;
   margin-left: 15px;
-  background: url(/assets/img/close-4.svg) center no-repeat !important;
+  background: url(assets/img/close-4.svg) center no-repeat !important;
   width: 15px;
   height: 15px;
 }
@@ -45703,7 +45703,7 @@ input:focus::placeholder {
 }
 .error-page {
   background-color: #fafafa;
-  background-image: url(/assets/img/about-his-bg.png);
+  background-image: url(assets/img/about-his-bg.png);
   width: 100%;
   min-height: 100vh;
   display: flex;

@@ -596,7 +596,7 @@
             intercept(O, B) {
               const Te = O.clone({
                 url:
-                  O.url.startsWith('/assets') || O.url.startsWith('http')
+                  O.url.startsWith('assets') || O.url.startsWith('http')
                     ? O.url
                     : $.N.apiUrl + O.url,
               });
@@ -1845,7 +1845,7 @@
                   'mouseleave',
                 ],
                 [1, 'modal-notify__close', 3, 'click'],
-                [0, 'xlink', 'href', '/assets/img/sprite.svg#close-3'],
+                [0, 'xlink', 'href', 'assets/img/sprite.svg#close-3'],
                 [3, 'innerHTML'],
               ],
               template: function (O, B) {
